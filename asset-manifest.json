@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.fca9c3e9.css",
-    "main.js": "/my-app/static/js/main.57e59cce.js",
-    "static/js/787.b8fa26a9.chunk.js": "/my-app/static/js/787.b8fa26a9.chunk.js",
-    "static/media/login.jpg": "/my-app/static/media/login.71c6f0afc5e3767dab6e.jpg",
-    "static/media/user.png": "/my-app/static/media/user.cb965e265fe56c8ca8ca.png",
-    "index.html": "/my-app/index.html",
-    "main.fca9c3e9.css.map": "/my-app/static/css/main.fca9c3e9.css.map",
-    "main.57e59cce.js.map": "/my-app/static/js/main.57e59cce.js.map",
-    "787.b8fa26a9.chunk.js.map": "/my-app/static/js/787.b8fa26a9.chunk.js.map"
+    "main.css": "/LifeSyncc/static/css/main.fca9c3e9.css",
+    "main.js": "/LifeSyncc/static/js/main.666a139c.js",
+    "static/js/787.b8fa26a9.chunk.js": "/LifeSyncc/static/js/787.b8fa26a9.chunk.js",
+    "static/media/login.jpg": "/LifeSyncc/static/media/login.71c6f0afc5e3767dab6e.jpg",
+    "static/media/user.png": "/LifeSyncc/static/media/user.cb965e265fe56c8ca8ca.png",
+    "index.html": "/LifeSyncc/index.html",
+    "main.fca9c3e9.css.map": "/LifeSyncc/static/css/main.fca9c3e9.css.map",
+    "main.666a139c.js.map": "/LifeSyncc/static/js/main.666a139c.js.map",
+    "787.b8fa26a9.chunk.js.map": "/LifeSyncc/static/js/787.b8fa26a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fca9c3e9.css",
-    "static/js/main.57e59cce.js"
+    "static/js/main.666a139c.js"
   ]
 }
